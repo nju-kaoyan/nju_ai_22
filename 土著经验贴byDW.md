@@ -20,7 +20,7 @@
 
 整体复习时间线如下图
 
-![img](src\dw_pic1.png)
+![img](https://github.com/nju-kaoyan/nju_ai_22/blob/master/src/dw_pic1.png)
 
  
 
